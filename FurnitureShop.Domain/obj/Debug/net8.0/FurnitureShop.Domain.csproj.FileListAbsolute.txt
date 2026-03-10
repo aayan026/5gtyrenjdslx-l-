@@ -1,0 +1,13 @@
+C:\Users\Acer\source\repos\FurnitureWebApp.API\FurnitureShop.Domain\bin\Debug\net8.0\FurnitureShop.Domain.deps.json
+C:\Users\Acer\source\repos\FurnitureWebApp.API\FurnitureShop.Domain\bin\Debug\net8.0\FurnitureShop.Domain.dll
+C:\Users\Acer\source\repos\FurnitureWebApp.API\FurnitureShop.Domain\bin\Debug\net8.0\FurnitureShop.Domain.pdb
+C:\Users\Acer\source\repos\FurnitureWebApp.API\FurnitureShop.Domain\obj\Debug\net8.0\FurnitureShop.Domain.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\FurnitureWebApp.API\FurnitureShop.Domain\obj\Debug\net8.0\FurnitureShop.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\FurnitureWebApp.API\FurnitureShop.Domain\obj\Debug\net8.0\FurnitureShop.Domain.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\FurnitureWebApp.API\FurnitureShop.Domain\obj\Debug\net8.0\FurnitureShop.Domain.AssemblyInfo.cs
+C:\Users\Acer\source\repos\FurnitureWebApp.API\FurnitureShop.Domain\obj\Debug\net8.0\FurnitureShop.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\FurnitureWebApp.API\FurnitureShop.Domain\obj\Debug\net8.0\FurnitureShop.Domain.sourcelink.json
+C:\Users\Acer\source\repos\FurnitureWebApp.API\FurnitureShop.Domain\obj\Debug\net8.0\FurnitureShop.Domain.dll
+C:\Users\Acer\source\repos\FurnitureWebApp.API\FurnitureShop.Domain\obj\Debug\net8.0\refint\FurnitureShop.Domain.dll
+C:\Users\Acer\source\repos\FurnitureWebApp.API\FurnitureShop.Domain\obj\Debug\net8.0\FurnitureShop.Domain.pdb
+C:\Users\Acer\source\repos\FurnitureWebApp.API\FurnitureShop.Domain\obj\Debug\net8.0\ref\FurnitureShop.Domain.dll

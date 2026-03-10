@@ -1,4 +1,5 @@
 ﻿using FurnitureShop.Domain.Entities.Common;
+using FurnitureShop.Domain.Entities.Concretes.Translation;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,13 +10,9 @@ namespace FurnitureShop.Domain.Entities.Concretes;
 
 public class Collection:BaseEntity
 {
-    public string NameAz { get; set; }
-    public string NameEn { get; set; }
-    public string NameRu { get; set; }
-    public string DescriptionAz { get; set; }
-    public string DescriptionEn { get; set; }
-    public string DescriptionRu { get; set; }
-    public string ImagesUrl { get; set; }   // dəstin ümumi otaq şəkli
+    public ICollection<CollectionTranslation> Translations { get; set; }
+
+    public string ImagesUrl { get; set; }   
     public int CategoryId { get; set; }
     public CollectionCategory CollectionCategory { get; set; }
     public decimal TotalPrice { get; set; }

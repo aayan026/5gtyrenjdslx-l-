@@ -1,4 +1,5 @@
 ﻿using FurnitureShop.Domain.Entities.Common;
+using FurnitureShop.Domain.Entities.Concretes.Translation;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,15 +10,7 @@ namespace FurnitureShop.Domain.Entities.Concretes;
 
 public class HeroSection:BaseEntity
 {
-    public string TitleAz { get; set; }
-    public string TitleEn { get; set; }
-    public string TitleRu { get; set; }
-    public string SubtitleAz { get; set; }
-    public string SubtitleEn { get; set; }
-    public string SubtitleRu { get; set; }
-    public string BadgeTextAz { get; set; }
-    public string BadgeTextEn { get; set; }
-    public string BadgeTextRu { get; set; }
+    public ICollection<HeroTranslation> Translations { get; set; }
     public string ImageUrl { get; set; }
     public bool IsActive { get; set; }
 }
